@@ -2,4 +2,4 @@ Nama : Naufal Natanael Muhtadi
 NIM : 71261291
 
 fitur Pencarian 
-Aku sudah menamatkan UG GitHub
+Aku sudah menamatkan UG GitHub.
